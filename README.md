@@ -1,0 +1,1 @@
+# cwebp_compressor
